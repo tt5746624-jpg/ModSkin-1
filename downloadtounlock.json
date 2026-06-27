@@ -7,7 +7,7 @@
   "wait_signup": 10,
   "wait_accept1": 10,
   "wait_accept2": 10,
-  "relock_hours": 5,
+  "relock_hours": 2,
   "relock_enabled": true,
   "latest_version": 2,
   "min_version": 2,
