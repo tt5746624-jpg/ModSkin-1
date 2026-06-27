@@ -9,10 +9,10 @@
   "wait_accept2": 10,
   "relock_hours": 2,
   "relock_enabled": true,
-  "latest_version": 2,
-  "min_version": 2,
+  "latest_version": 3,
+  "min_version": 3,
   "force_update": true,
-  "update_url": "http://santoryutoolkit.com/",
-  "update_version_name": "1.1",
-  "update_message": "Required update: profile photo, profile lock, reinstall restore, and force update support."
+  "update_url": "https://santoryutoolkit.com/",
+  "update_version_name": "1.2",
+  "update_message": "New in 1.2 - Earn Diamonds! Invite friends, complete tasks, and withdraw real MLBB diamonds. Plus a welcome bonus, smoother UI, and important fixes. Tap update to continue."
 }
