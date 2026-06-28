@@ -1,11 +1,25 @@
 {
   "modskins": [
     {
-      "id": "chou",
-      "name": "Michael Jackson",
-      "category": "King of Pop",
-      "series": "So Bad",
-      "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/GIF_20260625_111756_709.gif",
+      "id": "Michael Jackson V2",
+      "name": "Chou",
+      "category": "Michael Jackson v2",
+      "series": "Michael Jackson",
+      "image": "https://i.pinimg.com/originals/1a/ab/7b/1aab7b34dcc655f0c7f0643461c46b0a.gif",
+      "script": "https://github.com/WG170320/shesh/raw/refs/heads/main/MJV2.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Ichigo Kurosaki",
+        "Bleach"
+      ]
+    },
+    {
+      "id": "Michael Jackson",
+      "name": "Chou",
+      "category": "Michael Jackson v1",
+      "series": "Michael Jackson v1",
+      "image": "https://tenor.com/search/michael-jackson-gif-moonwalk-gifs",
       "script": "https://github.com/WG170320/Resources-/raw/refs/heads/main/Mj%20Skin.zip",
       "enabled": true,
       "featured": false,
