@@ -7349,7 +7349,7 @@
       "skins": [
         {
           "id": "fanny_001",
-          "name": "",
+          "name": "Backup",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224",
           "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_backup.zip",
           "featured": false,
